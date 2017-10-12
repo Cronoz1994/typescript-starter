@@ -7,3 +7,9 @@
     "target": "es5"
   }
 }
+/*
+ * Configuracion para el compilador de TypeScript
+ * y para saber que archivos se tomara en cuenta en el proceso de compilacion.
+ *
+ * Ver en su documentacion https://www.typescriptlang.org/docs/handbook/compiler-options.html
+ */
